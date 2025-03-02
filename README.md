@@ -1,13 +1,13 @@
 ---
-icon: hand-wave
+icon: shoe-prints
 ---
 
-# MyHackingNotes
+# Hack By Steps
 
-try making a ddos to 127.0.0.1 hola
+try making a ddos to 127.0.0.1&#x20;
 
 ## Table of Content
 
-* **Pentesting:**
-  * **WiFi**
-    * [How To Hack A Wifi - Step By Step](pentesting/wifi/hacking_wifi.md)
+{% content-ref url="pentesting/" %}
+[pentesting](pentesting/)
+{% endcontent-ref %}
