@@ -18,7 +18,7 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 [pentesting](pentesting/)
 {% endcontent-ref %}
 
-{% content-ref url="using-tools.md" %}
-[using-tools.md](using-tools.md)
+{% content-ref url="osint.md" %}
+[osint.md](osint.md)
 {% endcontent-ref %}
 
