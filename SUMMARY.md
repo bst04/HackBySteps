@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hack By Steps](README.md)
+  * [Using Tools](readme/using-tools.md)
 * [Pentesting](pentesting/README.md)
   * [Web](pentesting/web.md)
   * [WiFi](pentesting/wifi/README.md)
