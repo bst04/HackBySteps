@@ -4,7 +4,7 @@ icon: shoe-prints
 
 # Hack By Steps
 
-try making a ddos to 127.0.0.1&#x20;
+This GitBook is designed to guide you through the exciting world of ethical hacking, providing clear and detailed step-by-step instructions to help you develop your skills effectively and safely.
 
 ## Table of Content
 
