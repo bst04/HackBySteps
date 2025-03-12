@@ -13,3 +13,8 @@
 ## OSINT
 
 * [stay tuned...](osint/stay-tuned....md)
+
+## INFORMATION
+
+* [About Us](information/about-us.md)
+* [Submit your Step By Step](information/submit-your-step-by-step.md)
