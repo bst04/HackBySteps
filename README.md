@@ -14,11 +14,11 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 
 ## Table of Content
 
-{% content-ref url="pentesting/" %}
-[pentesting](pentesting/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="osint.md" %}
-[osint.md](osint.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
