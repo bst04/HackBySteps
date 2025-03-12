@@ -10,15 +10,15 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 
 <div align="center"><figure><img src=".gitbook/assets/banner cybersources.png" alt=""><figcaption><p>www.cybersources.site</p></figcaption></figure></div>
 
+{% tabs %}
+{% tab title="PENTESTING" %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>WIFI</td><td></td><td></td></tr><tr><td>RFID/NFC</td><td></td><td></td></tr><tr><td>WEB</td><td></td><td></td></tr></tbody></table>
 
 
-## Table of Content
+{% endtab %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% tab title="OSINT" %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% endtab %}
+{% endtabs %}
 
