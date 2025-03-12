@@ -10,8 +10,10 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 
 <div align="center"><figure><img src=".gitbook/assets/banner cybersources.png" alt=""><figcaption><p>www.cybersources.site</p></figcaption></figure></div>
 
-{% hint style="danger" %}
-The cybersecurity procedures provided herein are intended solely for educational and informational purposes. They are not to be construed as professional advice or a substitute for legal, technical, or security consultation. All procedures are provided “as-is” without any express or implied warranties, including but not limited to warranties of accuracy, reliability, or fitness for a particular purpose.
+This project is mantined by [bst04](https://app.gitbook.com/u/P5oIJLESe6NRUPsDrwpLW35wJk12 "mention"), also with the collaborators: 0D\&H, MRxA and tOe-BEANS.
+
+{% hint style="info" %}
+**Disclaimer:** The cybersecurity procedures provided herein are intended solely for educational and informational purposes. They are not to be construed as professional advice or a substitute for legal, technical, or security consultation. All procedures are provided “as-is” without any express or implied warranties, including but not limited to warranties of accuracy, reliability, or fitness for a particular purpose.
 
 By using these procedures, you acknowledge and agree that you assume full responsibility for any actions taken based on the information provided. Under no circumstances shall the authors, publishers, or any affiliated parties be held liable for any direct, indirect, incidental, consequential, or any other damages, losses, or legal actions arising from your use or misuse of these procedures.
 
