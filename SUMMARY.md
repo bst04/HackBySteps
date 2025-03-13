@@ -10,7 +10,7 @@
 * [Web](pentesting/web/README.md)
   * [Create a Login Page Webhook](pentesting/web/create-a-login-page-webhook.md)
 * [Network](pentesting/network/README.md)
-  * [Making DoS & DDoS](pentesting/network/making-dos-and-ddos.md)
+  * [Guide on DoS & DDoS](pentesting/network/guide-on-dos-and-ddos.md)
 
 ## OSINT
 
