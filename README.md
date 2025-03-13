@@ -10,6 +10,8 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 
 <div align="center"><figure><img src=".gitbook/assets/banner cybersources.png" alt=""><figcaption><p>www.cybersources.site</p></figcaption></figure></div>
 
+‼️**JOIN OUR DISCORD COMMUNITY:** [**https://discord.gg/CHfYtqq8cy**](https://discord.gg/CHfYtqq8cy) **‼️**
+
 This project is mantined by [**bst04**](https://github.com/bst04), also with the collaborators: **0D\&H**, **MRxA** and **tOe-BEANS**.
 
 {% hint style="info" %}
