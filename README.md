@@ -10,8 +10,6 @@ This GitBook is designed to guide you through the exciting world of ethical hack
 
 <div align="center"><figure><img src=".gitbook/assets/banner cybersources.png" alt=""><figcaption><p>www.cybersources.site</p></figcaption></figure></div>
 
-‼️ **JOIN OUR NEW DISCORD COMMUNITY:** [**https://discord.gg/CHfYtqq8cy**](https://discord.gg/CHfYtqq8cy) **‼️**
-
 {% hint style="info" %}
 **Disclaimer:** The cybersecurity procedures provided herein are intended solely for educational and informational purposes. They are not to be construed as professional advice or a substitute for legal, technical, or security consultation. All procedures are provided “as-is” without any express or implied warranties, including but not limited to warranties of accuracy, reliability, or fitness for a particular purpose.
 
