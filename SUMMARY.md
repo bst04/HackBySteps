@@ -16,7 +16,12 @@
 
 * [stay tuned...](osint/stay-tuned....md)
 
-## INFORMATION
+## COLLABORATE
 
-* [About Us](information/about-us.md)
-* [Submit your Step By Step](information/submit-your-step-by-step.md)
+* [Submit your Step By Step](collaborate/submit-your-step-by-step.md)
+* [Sponsor the Project](collaborate/sponsor-the-project.md)
+
+## LINKS
+
+* [GitHub Repository](https://github.com/bst04/HackBySteps)
+* [Discord Community](https://discord.gg/CHfYtqq8cy)
