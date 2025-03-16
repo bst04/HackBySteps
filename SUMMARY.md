@@ -11,6 +11,7 @@
 * [RFID / NFC](pentesting/rfid-nfc.md)
 * [Web](pentesting/web/README.md)
   * [Create a Login Page Webhook](pentesting/web/create-a-login-page-webhook.md)
+  * [Phishing Attack Guide](pentesting/web/phishing-attack-guide.md)
 * [Network](pentesting/network/README.md)
   * [Guide on DoS & DDoS](pentesting/network/guide-on-dos-and-ddos.md)
 
