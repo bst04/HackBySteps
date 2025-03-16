@@ -147,12 +147,7 @@ Here’s a quick list of tools mentioned in this guide:
 
 ***
 
-### **Conclusion**
+### Conclusion
 
 Finding hidden social media profiles requires a combination of technical skills, creativity, and persistence. By following this guide and leveraging the right tools, you can uncover valuable insights while maintaining ethical integrity. Remember, OSINT is a powerful resource—use it responsibly.
 
-If you have any questions or need further clarification, feel free to ask!
-
-***
-
-This guide mirrors the structure and intent of the original article but provides updated tools, examples, and actionable steps tailored to modern OSINT practices.
