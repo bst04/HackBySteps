@@ -15,6 +15,11 @@
 * [Network](pentesting/network/README.md)
   * [Guide on DoS & DDoS](pentesting/network/guide-on-dos-and-ddos.md)
 
+## OSINT
+
+* [SOCMINT](osint/socmint/README.md)
+  * [How to Find Hidden Profiles](osint/socmint/how-to-find-hidden-profiles.md)
+
 ## COLLABORATE
 
 * [Submit your Step By Step](collaborate/submit-your-step-by-step.md)
