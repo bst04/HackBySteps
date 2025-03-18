@@ -14,6 +14,7 @@
   * [Phishing Attack Guide](pentesting/web/phishing-attack-guide.md)
 * [Network](pentesting/network/README.md)
   * [Guide on DoS & DDoS](pentesting/network/guide-on-dos-and-ddos.md)
+  * [IP Address Exploitation](pentesting/network/ip-address-exploitation.md)
 
 ## OSINT
 
